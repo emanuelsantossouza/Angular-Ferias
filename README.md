@@ -7,3 +7,7 @@ Flags para iniciar um projeto
 
 
 #### ng new = cria um projeto
+
+
+## Como importar o Bootstrap para uma aplicação angular
+###
